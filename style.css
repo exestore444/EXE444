@@ -1,0 +1,21 @@
+body{
+    background:#111;
+    color:white;
+    text-align:center;
+    font-family:Arial;
+    padding:50px;
+}
+
+.icons i{
+    font-size:40px;
+    margin:20px;
+    color:#00f2ff;
+}
+
+button{
+    padding:10px 20px;
+    background:#00f2ff;
+    border:none;
+    cursor:pointer;
+    font-size:16px;
+}
